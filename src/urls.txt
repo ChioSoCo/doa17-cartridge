@@ -1,3 +1,3 @@
-https://github.com/ChioSoCo/doa17-static-page.git
-https://github.com/ChioSoCo/doa17-infrastructure.git
-https://github.com/ChioSoCo/doa17-application.git
+https://github.com/chiosoco/doa17-static-page.git
+https://github.com/chiosoco/doa17-infrastructure.git
+https://github.com/chiosoco/doa17-application.git
